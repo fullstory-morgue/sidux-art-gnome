@@ -1,0 +1,6 @@
+sidux-art-gnome (0.1) unstable; urgency=low
+
+  * Initial Release.
+  * inherit packaging from sidux-art-kde.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 23 Feb 2008 21:39:46 +0100

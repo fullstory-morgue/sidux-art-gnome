@@ -1,0 +1,16 @@
+Source: sidux-art-gnome
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 6)
+Standards-Version: 3.7.3
+Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-kde/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde/trunk/
+
+Package: sidux-art-gnome
+Architecture: all
+Depends: sidux-art-gnome-eros | sidux-art-gnome-theme
+Conflicts: sidux-art-kde (<= 0.0.6)
+Description:GNOME theme virtual package for sidux
+ Depends on various GNOME artwork used in current sidux release.
