@@ -10,7 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde/trunk/
 
 Package: sidux-art-gnome
 Architecture: all
-Depends: sidux-art-gnome-nyx | sidux-art-gnome-theme
+Depends: sidux-art-gnome-ourea | sidux-art-gnome-theme
 Conflicts: sidux-art-kde (<= 0.0.6)
 Description:GNOME theme virtual package for sidux
  Depends on various GNOME artwork used in current sidux release.
